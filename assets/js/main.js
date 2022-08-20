@@ -12,7 +12,7 @@ function backgroundSequence() {
 
     for (i = 0; i < bgImageArray.length; i++) {
         setTimeout(function(){
-            document.getElementById("hero").style.background = "url('" + base + bgImageArray[k] + "') no-repeat center center fixed";
+            document.getElementById("hero").style.background = "url('" + base + bgImageArray[k] + "') no-repeat center center";
             document.getElementById("hero").style.backgroundSize = "cover";
             if ((k + 1) === bgImageArray.length) {
                 setTimeout(function() {
