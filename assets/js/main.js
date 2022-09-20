@@ -3,7 +3,7 @@ var bgImageArray = [
     "lay-residence-1920x1080.jpg",
     "country-life-acres-1920x1080.jpg"
 ];
-var base = "/bozich/assets/images/hero/";
+var base = "/assets/images/hero/";
 var secs = 4;
 
 function backgroundSequence() {
