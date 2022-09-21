@@ -1,7 +1,10 @@
 var bgImageArray = [
     "squires-lane-1920x1080.jpg",
     "lay-residence-1920x1080.jpg",
-    "country-life-acres-1920x1080.jpg"
+    "brick-house-exterior.jpg",
+    "stoney-house-exterior-1920x1080.jpg",
+    "33-stoney-house.jpg",
+    "13-house-exterior.jpg"
 ];
 var base = "/assets/images/hero/";
 var secs = 4;
