@@ -41,7 +41,10 @@ $(document).ready(function() {
     $(".owl-carousel").owlCarousel({
         loop: true,
         margin: 20,
-        nav: false,
+        nav: true,
+        dots: false,
+        navContainer: ".owl-nav",
+        dotsContainer: ".owl-dots",
         responsiveClass: true,
         center: true,
         responsive: {
